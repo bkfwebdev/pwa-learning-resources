@@ -1,0 +1,23 @@
+Google Web Developers Introductions to PWAs
+https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/
+
+Youtube Video Introduction from google web dev conference
+https://www.youtube.com/watch?v=m-sCdS0sQO8
+
+hello World PWA
+https://medium.com/dev-channel/learn-how-to-build-a-pwa-in-under-5-minutes-c860ad406ed
+
+About the Manifest
+https://developers.google.com/web/fundamentals/web-app-manifest/
+
+About the App Shell
+https://developers.google.com/web/fundamentals/architecture/app-shell
+
+About Service workers
+https://developers.google.com/web/ilt/pwa/introduction-to-service-worker
+
+Some Great Articles
+https://www.mindk.com/blog/understanding-progressive-web-apps/
+https://medium.com/progressive-web-apps/who-still-havent-experienced-the-2-years-old-next-big-thing-for-mobile-web-978cc55f821a
+http://blog.gaborcselle.com/2012/10/every-step-costs-you-20-of-users.html
+
